@@ -1,0 +1,4 @@
+[submodule "solution"]
+    path = solution
+    url = https://github.com/example/solution.git
+    
